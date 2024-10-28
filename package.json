@@ -43,7 +43,7 @@
     "react-hot-toast": "^2.4.1",
     "react-icons": "^5.2.1",
     "recharts": "^2.12.7",
-    "tailwind-merge": "2.2.2",
+    "tailwind-merge": "2.5.4",
     "zod": "3.23.8",
     "@near-js/providers": "^1.0.0",
     "@near-wallet-selector/bitte-wallet": "^8.9.13",
