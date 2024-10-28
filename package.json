@@ -65,7 +65,7 @@
     "wagmi": "^2.12.16"
   },
   "devDependencies": {
-    "@storybook/addon-essentials": "^8.1.1",
+    "@storybook/addon-essentials": "^8.1.11",
     "@storybook/addon-interactions": "^8.1.1",
     "@storybook/addon-links": "^8.1.1",
     "@storybook/blocks": "^8.1.1",
